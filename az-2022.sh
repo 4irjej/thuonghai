@@ -60,7 +60,7 @@ clear
 echo "Script by fb.com/thuong.hai.581"
 echo "Repo: https://github.com/kmille36/Windows-11-VPS"
 
-echo "Windows Server 2022 Datacenter" > abc; echo MicrosoftWindowsServer:WindowsServer:2022-Datacenter:latest > win 
+echo MicrosoftWindowsDesktop:windows-11:win11-21h2-pro:22000.978.220910 > win 
 
 
 goto step3
